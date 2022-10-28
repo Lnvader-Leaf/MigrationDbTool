@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationDbTool", "MigrationDbTool\MigrationDbTool.csproj", "{D65C12E0-4CAC-4C82-BDCC-86694DCB374A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationDbForEF", "MigrationDbForEF\MigrationDbForEF.csproj", "{66460AD2-3B85-4CC4-81AA-DED0E9AE0082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65C12E0-4CAC-4C82-BDCC-86694DCB374A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65C12E0-4CAC-4C82-BDCC-86694DCB374A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65C12E0-4CAC-4C82-BDCC-86694DCB374A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65C12E0-4CAC-4C82-BDCC-86694DCB374A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66460AD2-3B85-4CC4-81AA-DED0E9AE0082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66460AD2-3B85-4CC4-81AA-DED0E9AE0082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66460AD2-3B85-4CC4-81AA-DED0E9AE0082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66460AD2-3B85-4CC4-81AA-DED0E9AE0082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBB5E2F5-414B-40C6-A40C-56A2A997BBBD}
+	EndGlobalSection
+EndGlobal
